@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello and welcome to my page 👋
+
+My name is Arif Jehda-Oh and I'm currently pursuing a degree in Computer Enginering and Industrial Economics at KTH, Royal Institute of Technology.
+
+- 🔭 I’m currently working on become a better developer who can write good testable application for smoother production.
 
 <!--
 **arifjehoh/arifjehoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
