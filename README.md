@@ -1,22 +1,4 @@
 <!--- Source to turn HEX to svg-color https://codepen.io/sosuke/pen/Pjoqqp --->
-<style>
-.color-openjdk {
-    filter: invert(100%) contrast(100%);
-}
-.color-python {
-    filter: invert(47%) sepia(5%) saturate(6125%) hue-rotate(166deg) brightness(87%) contrast(86%);
-}
-.color-oracle {
-    filter: invert(16%) sepia(71%) saturate(7296%) hue-rotate(12deg) brightness(95%) contrast(129%);
-}
-.color-docker {
-    filter: invert(53%) sepia(26%) saturate(6608%) hue-rotate(183deg) brightness(98%) contrast(89%);
-}
-.color-linkedin {
-    filter: invert(40%) sepia(95%) saturate(7211%) hue-rotate(200deg) brightness(92%) contrast(92%);
-}
-</style>
-
 ![Oh My God Omg GIF by Back to the Future Trilogy](https://media.giphy.com/media/naiba7cRbSjgrzJ9wa/giphy.gif)
 
 # Welcome to my Github Den
@@ -32,17 +14,17 @@ Mostly working with SQL and Python.
 
 ## My expertise
 <div class="row">
-<img alt="Java" width="26px" src="https://simpleicons.org/icons/openjdk.svg" class="color-openjdk"/>
-<img alt="Java" width="26px" src="https://simpleicons.org/icons/python.svg" class="color-python"/>
-<img alt="Java" width="26px" src="https://simpleicons.org/icons/postgresql.svg" class="color-pgsql"/>
-<img alt="Java" width="26px" src="https://simpleicons.org/icons/oracle.svg" class="color-oracle"/>
-<img alt="Docker" width="26px" src="https://simpleicons.org/icons/docker.svg" class="color-docker"/>
+<img alt="Java" width="26px" src="https://simpleicons.org/icons/openjdk.svg" style="margin: 8px; filter: invert(100%) contrast(100%);"/>
+<img alt="Java" width="26px" src="https://simpleicons.org/icons/python.svg" style="margin: 8px; filter: invert(47%) sepia(5%) saturate(6125%) hue-rotate(166deg) brightness(87%) contrast(86%);"/>
+<img alt="Java" width="26px" src="https://simpleicons.org/icons/postgresql.svg" style="margin: 8px; filter: invert(39%) sepia(34%) saturate(2332%) hue-rotate(202deg) brightness(92%) contrast(92%);"/>
+<img alt="Java" width="26px" src="https://simpleicons.org/icons/oracle.svg" style="margin: 8px; filter: invert(16%) sepia(71%) saturate(7296%) hue-rotate(12deg) brightness(95%) contrast(129%);"/>
+<img alt="Docker" width="26px" src="https://simpleicons.org/icons/docker.svg" style="margin: 8px; filter: invert(53%) sepia(26%) saturate(6608%) hue-rotate(183deg) brightness(98%) contrast(89%);"/>
 </div>
 
 
 ## You can contact me through
 <a href="https://www.linkedin.com/in/arifjehdaoh/" >
-<img alt="LinkedIn" width="26px" style="bg-color: #0A66C2;" src="https://simpleicons.org/icons/linkedin.svg" class="color-linkedin"/>
+<img alt="LinkedIn" width="26px" style="margin: 8px; filter: invert(40%) sepia(95%) saturate(7211%) hue-rotate(200deg) brightness(92%) contrast(92%);" src="https://simpleicons.org/icons/linkedin.svg"/>
 </a>
 
 
