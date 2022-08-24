@@ -23,7 +23,7 @@ Mostly working with SQL and Python.
 
 
 ## You can contact me through
-<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/arifjehdaoh/" >
+<a href="https://www.linkedin.com/in/arifjehdaoh/"  target="_blank" rel="noopener noreferrer">
 <img alt="LinkedIn" width="26px" style="margin: 8px; filter: invert(40%) sepia(95%) saturate(7211%) hue-rotate(200deg) brightness(92%) contrast(92%);" src="https://simpleicons.org/icons/linkedin.svg"/>
 </a>
 
