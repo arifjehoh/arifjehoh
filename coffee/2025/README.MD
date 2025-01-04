@@ -11,11 +11,13 @@ COMMENT
 
 ### January
 
-IMAGE  
-Gringo, Nordic Coffee Roasters  
-Rawanda, Nyamurinda
+```
+IMAGE
+Gringo, Nordic Coffee Roasters
+Rwanda, Nyamurinda  
 Pour-over  
 COMMENT 
+``` 
 
 ### February
 
