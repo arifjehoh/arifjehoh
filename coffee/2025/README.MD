@@ -2,8 +2,8 @@
 
 ## Months
 ```
-IMAGE  
-ROASTER  
+IMAGE
+ROASTER
 NAME  
 Pour-over / Espresso / Moka pot  
 COMMENT 
@@ -14,7 +14,7 @@ COMMENT
 IMAGE  
 Gringo, Nordic Coffee Roasters  
 Rawanda, Nyamurinda
-Pour-over 
+Pour-over  
 COMMENT 
 
 ### February
