@@ -2,6 +2,6 @@
 
 ## Months
 
-IMAGE
-NAME
-COMMENT
+IMAGE  
+NAME  
+COMMENT  
